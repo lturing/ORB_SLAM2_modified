@@ -23,8 +23,7 @@
 
 #include <vector>
 #include <list>
-#include <opencv2/imgproc/types_c.h>
-
+#include <opencv2/imgproc.hpp>
 
 namespace ORB_SLAM2
 {
